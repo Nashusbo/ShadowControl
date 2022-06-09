@@ -146,7 +146,7 @@ body{
 }
 .head-sec .top-navigation .navbar{
     padding: 20px 0px;
-    background-color:white;
+    background-color:#252525;
     /*box-shadow: 1px 1px 15px #e1e1e1;*/
 }
 
@@ -160,7 +160,7 @@ header .nav-up .horizontal-nav li:last-child{
     margin-right: 0;
 }
 header .nav-up .horizontal-nav li .nav-link{
-    color: #1f1f1f;
+    color: #FFF;
     text-decoration: none;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
@@ -211,7 +211,7 @@ header{
 
 }
 .fix-top{
-    background-color: #ffffff;
+    background-color: #181817;
     position: fixed;
     -webkit-animation-name: animationFade;
     animation-name: animationFade;
@@ -223,7 +223,7 @@ header{
     box-shadow: 1px 1px 15px #e1e1e1;
 }
 .fix-top .navbar{
-    background-color: #fff  !important;
+    background-color: #252525  !important;
     padding-top: 15px !important;
     padding-bottom: 15px !important;
     box-shadow: none !important;
@@ -260,13 +260,13 @@ header{
 =====================================*/
 .banner-sec{
     min-height: 500px;
-    background-color: #fcedee;
-    border-bottom-left-radius: 27%;
+    background-color: #37090c;
+    border-bottom-left-radius: 27%; 
     /*background: url("/vapp-landing/img/img2.jpg");*/
 }
 .banner-sec .banner-details{
     font-family: 'Montserrat', sans-serif;
-    color: #141414;
+    color: #DDD;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -293,6 +293,7 @@ header{
     opacity: .8;
     margin-bottom: 30px;
 
+
 }
 .banner-sec .banner-details .banner-inner-content .banner-btn{
     padding: 10px 40px;
@@ -307,9 +308,9 @@ header{
     border: solid 1px #1f1f1f;
 }
 .banner-sec .banner-details .banner-inner-content .banner-btn:hover{
-    background-color: #FFFFFF;
+    background-color: #252525;
     color: #1f1f1f;
-    border: solid 1px #FFFFFF;
+    border: solid 1px #252525;
 }
 .banner-sec .banner-img{
     padding-left: 50px;
@@ -537,7 +538,7 @@ header{
     right: 0;
     bottom: 0;
     top:0;
-    background-color: rgba(251, 122, 130, 0.40);
+    background-color:#37090c;
 }
 .get-app-sec .get-app-details .sub-heading{
     font-family: 'Montserrat', sans-serif;
@@ -567,7 +568,7 @@ header{
     font-weight: 500;
     font-size: 18px;
     color: #1f1f1f;
-    background-color: #FFFFFF;
+    background-color: #252525;
     text-decoration: none;
     padding: 20px 50px;
     border: solid 1px #fff;
@@ -579,7 +580,7 @@ header{
 }
 .get-app-sec .get-app-details .get-app-btn:hover{
     background-color: #1f1f1f;
-    color: #FFFFFF;
+    color: #252525;
     border: solid 1px #1f1f1f;
 }
 .get-app-sec .get-app-details .get-app-btn i{
@@ -615,35 +616,35 @@ footer css
 }
 
 .footer-sec .footer-icons a i.la-facebook-f:hover, .footer-sec .footer-icons  a i.la-facebook-f:focus {
-    color: #ffffff;
+    color: #252525;
     -webkit-box-shadow: 0 0 15px 30px #3D558F inset;
     box-shadow: 0 0 15px 30px #3D558F inset;
 }
 .footer-sec .footer-icons a i.la-twitter:hover, .footer-sec .footer-icons  a i.la-twitter:focus {
-    color: #ffffff;
+    color: #252525;
     -webkit-box-shadow: 0 0 15px 30px #33c9dd inset;
     box-shadow: 0 0 15px 30px #33c9dd inset;
 }
 .footer-sec .footer-icons a i.la-google:hover, .footer-sec .footer-icons  a i.la-google:focus {
-    color: #ffffff;
+    color: #252525;
     -webkit-box-shadow: 0 0 15px 30px #D74937 inset;
     box-shadow: 0 0 15px 30px #D74937 inset;
 }
 .footer-sec .footer-icons a i.la-linkedin-in:hover, .footer-sec .footer-icons a i.la-linkedin-in:focus {
-    color: #ffffff;
+    color: #252525;
     -webkit-box-shadow: 0 0 15px 30px #0474BC inset;
     box-shadow: 0 0 15px 30px #0474BC inset;
 }
 
 .footer-sec .footer-icons a i.la-instagram:hover, .footer-sec .footer-icons  a i.la-instagram:focus {
-    color: #ffffff;
+    color: #252525;
     background-image: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
     /*-webkit-box-shadow: 0 0 15px 30px #fd5949 inset;*/
     /*box-shadow: 0 0 15px 30px #fd5949 inset;*/
     animation: 1s instaRound;
 }
 .footer-sec .footer-icons a i.la-envelope:hover, .footer-sec .footer-icons  a i.la-envelope:focus {
-    color: #ffffff;
+    color: #252525;
     -webkit-box-shadow: 0 0 15px 30px #D45049 inset;
     box-shadow: 0 0 15px 30px #D45049 inset;
 }
@@ -736,7 +737,7 @@ header .broad-nav{
     right: 0;
     left: auto;
     bottom: auto;
-    background-color: #FFFFFF;
+    background-color: #252525;
     z-index: 99999;
     display: block;
     -webkit-animation: .5s display-ctrl;
@@ -763,7 +764,7 @@ header .broad-nav{
     }
 }
 header .broad-nav .navbar{
-    background-color: #FFFFFF !important;
+    background-color: #252525 !important;
     padding: 20px 70px !important;
 }
 header .broad-nav .close-nav{
@@ -885,7 +886,7 @@ header .broad-nav .navbar .nav-link:focus, header .broad-nav .navbar  .nav-link:
     /*header sec*/
     .head-sec .top-navigation .navbar {
         padding: 20px 30px;
-        background-color: white;
+        background-color: #252525;
     }
     header .broad-nav {
         left: 0;
@@ -1013,7 +1014,7 @@ header .broad-nav .navbar .nav-link:focus, header .broad-nav .navbar  .nav-link:
 }
 
 .team-section .team-details .sub-title{
-    color: #ffffff;
+    color: #252525;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -1022,7 +1023,7 @@ header .broad-nav .navbar .nav-link:focus, header .broad-nav .navbar  .nav-link:
 }
 
 .team-section .team-details .title{
-    color: #ffffff;
+    color: #252525;
     font-family: 'Oswald', sans-serif;
     font-size: 60px;
     font-weight: 500;
@@ -1074,7 +1075,7 @@ header .broad-nav .navbar .nav-link:focus, header .broad-nav .navbar  .nav-link:
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    border: 2px solid #ffffff;
+    border: 2px solid #252525;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1100,13 +1101,13 @@ header .broad-nav .navbar .nav-link:focus, header .broad-nav .navbar  .nav-link:
 #team-circle-right i{
     font-size: 16px;
     z-index: 1111;
-    color: #ffffff;
+    color: #252525;
 }
 
 #team-circle-left i{
     font-size: 16px;
     z-index: 1111;
-    color: #ffffff;
+    color: #252525;
 }
 
 .team-section:hover #team-circle-right , .team-section:hover #team-circle-left {
